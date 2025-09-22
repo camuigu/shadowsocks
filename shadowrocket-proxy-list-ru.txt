@@ -81,6 +81,7 @@ DOMAIN-SUFFIX,cisco.com
 DOMAIN-SUFFIX,citrix.com
 DOMAIN-SUFFIX,clamav.net
 DOMAIN-SUFFIX,claude.ai
+DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,cloud.mongodb.com
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,codeium.com
